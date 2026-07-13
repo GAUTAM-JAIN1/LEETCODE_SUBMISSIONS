@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0075-sort-colors) |
+| [0713-subarray-product-less-than-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -23,13 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
