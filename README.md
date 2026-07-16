@@ -12,15 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0075-sort-colors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0075-sort-colors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -61,12 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0788-rotated-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0788-rotated-digits) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
