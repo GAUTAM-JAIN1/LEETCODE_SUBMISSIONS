@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0788-rotated-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
