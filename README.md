@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0011-container-with-most-water) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
