@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
