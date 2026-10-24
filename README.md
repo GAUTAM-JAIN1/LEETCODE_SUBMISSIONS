@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2409-count-days-spent-together) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2409-count-days-spent-together) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
