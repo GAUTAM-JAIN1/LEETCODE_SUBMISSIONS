@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
 ## String
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
@@ -151,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
