@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
 ## String
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
