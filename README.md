@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
