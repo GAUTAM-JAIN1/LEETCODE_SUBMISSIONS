@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2409-count-days-spent-together) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
