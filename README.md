@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -184,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
