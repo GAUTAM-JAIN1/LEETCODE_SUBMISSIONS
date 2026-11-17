@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0788-rotated-digits) |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
