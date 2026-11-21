@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
