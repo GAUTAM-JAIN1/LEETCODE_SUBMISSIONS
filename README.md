@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2409-count-days-spent-together) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
