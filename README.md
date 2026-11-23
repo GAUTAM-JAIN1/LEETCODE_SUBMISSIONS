@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0788-rotated-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/2409-count-days-spent-together) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/GAUTAM-JAIN1/LEETCODE_SUBMISSIONS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
